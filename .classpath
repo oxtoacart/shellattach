@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/test"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="/Users/ox.to.a.cart/.gradle/caches/artifacts-26/filestore/me.bazhenov.groovy-shell/groovy-shell-server/1.3/source/ae8f0f499c53e8161256dad20ed867f9ae6d1de0/groovy-shell-server-1.3-sources.jar" kind="lib" path="/Users/ox.to.a.cart/.gradle/caches/artifacts-26/filestore/me.bazhenov.groovy-shell/groovy-shell-server/1.3/jar/a7632b8f806330ac4c9bb6aea28137b629fbfa06/groovy-shell-server-1.3.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/ox.to.a.cart/.gradle/caches/artifacts-26/filestore/org.codehaus.groovy/groovy-all/2.1.9/source/c634f7019224139742da9e194b14435419f0a63f/groovy-all-2.1.9-sources.jar" kind="lib" path="/Users/ox.to.a.cart/.gradle/caches/artifacts-26/filestore/org.codehaus.groovy/groovy-all/2.1.9/jar/7745db37e5f42a1eeaba99178916a6d7cb1a434/groovy-all-2.1.9.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/ox.to.a.cart/.gradle/caches/artifacts-26/filestore/org.fusesource.jansi/jansi/1.2.1/source/2b833ca759cbacf080ff6f8236d13b1b29fe2e8b/jansi-1.2.1-sources.jar" kind="lib" path="/Users/ox.to.a.cart/.gradle/caches/artifacts-26/filestore/org.fusesource.jansi/jansi/1.2.1/jar/8b0b19c68f75b1681ee6e5eb5267d7015ae91e44/jansi-1.2.1.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/ox.to.a.cart/.gradle/caches/artifacts-26/filestore/org.slf4j/slf4j-api/1.6.1/source/46a386136c901748e6a3af67ebde6c22bc6b4524/slf4j-api-1.6.1-sources.jar" kind="lib" path="/Users/ox.to.a.cart/.gradle/caches/artifacts-26/filestore/org.slf4j/slf4j-api/1.6.1/jar/6f3b8a24bf970f17289b234284c94f43eb42f0e4/slf4j-api-1.6.1.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/ox.to.a.cart/.gradle/caches/artifacts-26/filestore/jline/jline/0.9.94/source/7ac7b49164e4f9d250309c70caee645151b87e46/jline-0.9.94-sources.jar" kind="lib" path="/Users/ox.to.a.cart/.gradle/caches/artifacts-26/filestore/jline/jline/0.9.94/jar/99a18e9a44834afdebc467294e1138364c207402/jline-0.9.94.jar" exported="true"/>
+	<classpathentry kind="lib" path="/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/lib/tools.jar" exported="true"/>
+</classpath>

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+CLASSPATH=build/libs/shellattach-0.1.0-shadow.jar:$JAVA_HOME/lib/tools.jar:$JAVA_HOME../../lib/tools.jar:$JAVA_HOME/../../Home/lib/tools.jar
+java -cp $CLASSPATH org.shellattach.Main $*

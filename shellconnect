@@ -1,0 +1,3 @@
+#!/bin/bash
+
+socat -,raw,echo=0,opost TCP:127.0.0.1:$1
