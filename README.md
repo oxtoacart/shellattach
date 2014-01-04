@@ -29,7 +29,7 @@ Find your Java process id using `jps` (comes with Java).
 68818
 ```
 
-Start the remote shell for on port 6789 for pid 55885
+Start the remote shell on port 6789 for pid 55885
 
 `./shellstart 6789 55885`
 
