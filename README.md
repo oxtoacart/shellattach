@@ -31,11 +31,20 @@ Find your Java process id using `jps` (comes with Java).
 
 Start the remote shell on port 6789 for pid 55885
 
-`./shellstart 6789 55885`
+```
+> ./shellstart 6789 55885
+Loaded sattach agent, listening for socat connection at port 6789
+```
 
 Connect to the remote shell
 
-`./shellconnect 6789`
+```
+> ./shellconnect 6789
+Groovy Shell (2.1.9, JVM: 1.7.0_45)
+Type 'help' or '\h' for help.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+groovy:000> 
+```
 
 You're now in a Groovy shell that has full access to the JVM running as pid 55885!
 

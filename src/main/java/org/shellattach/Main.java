@@ -18,7 +18,7 @@ public class Main {
         System.out
                 .println(
                 String.format(
-                        "Loaded sattach agent, listening for socat connection at port %1$s",
+                        "Loaded shellattach agent, listening for socat connection at port %1$s",
                         args[0]));
     }
 }
