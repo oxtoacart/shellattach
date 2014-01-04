@@ -33,7 +33,7 @@ Start the remote shell on port 6789 for pid 55885
 
 ```
 > ./shellstart 6789 55885
-Loaded sattach agent, listening for socat connection at port 6789
+Loaded shellattach agent, listening for socat connection at port 6789
 ```
 
 Connect to the remote shell
